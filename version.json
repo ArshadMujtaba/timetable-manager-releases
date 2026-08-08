@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "url": "https://github.com/ArshadMujtaba/timetable-manager-releases/releases",
-  "changelog": "• Windows Hello biometrics integration\n• High performance SQLite database encryption\n• Software update check feature"
+  "changelog": "• Day group support for bell timings\n• Now work with all weeks days incl sat & sun\n• Software support links"
 }
